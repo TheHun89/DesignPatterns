@@ -1,4 +1,4 @@
-Design Patterns For Humans
+Design Patterns
 
 🚀 Introduction
 =================
